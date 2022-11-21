@@ -1,6 +1,6 @@
 ## Welcome to my Code Abode 
-- 👋 Hi, I’m Chii and I’m interested in Product and Project Management
-- 🌱 I’m currently learning about UX design, automation using python, and cloud engineering and management. With my background in scientific research, software development, support engineering, and business analysis, I have built expertise in delivering successful and sustainable products that meet business goals and guarantee impeccable customer experiences. Whether conceptualizing a new product or iterating over an existing one, I am passionate about driving critical initiatives that will fuel innovation. When I'm not coding, you'll probably catch me at a pilates class, doing some water color painting, or hoarding Jeni's Icecream at your nearest grocery store.
+- 👋 Hello! My name is Chii. Welcome to my journey of pursuing my passion for helping businesses discover and deliver innovative and successful products that meet the customers' needs in a way that is better than the competition. I am building expertise in delivering successful and sustainable products that customers love, value, and want over existing options. Whether conceptualizing a new product or iterating over an existing one, I am passionate about driving critical initiatives that will fuel your ability to innovate, move quickly, and stay ahead of the competition. I have a blog on "Medium," where I document my journey and share everything I learn. 
+- 🌱 When I'm not slaming away on my keyboard, you'll probably catch me at a pilates class, doing some water color painting, or hoarding Jeni's Icecream at your nearest grocery store. If I could name my superpower, it would be my ability to have an answer to every question. Oh, I also want to visit Croatia!
 
 
 <!---
